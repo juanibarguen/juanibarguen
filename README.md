@@ -3,9 +3,9 @@
 
 - 🌱 I am currently developing with **Angular & Spring boot**
 
-- 👨‍💻 My personal portfolio [https://juanibarguen.github.io/portfolio/](https://juanibarguen.github.io/portfolio/)
+- 👨‍💻 My personal <a href="https://juanibarguen.github.io/portfolio/" target="_blank" rel="noreferrer">portfolio</a>
 
-- 📫 How to reach me **ibarguenjuancruz@gmail.com**
+- 📫 Contact me **ibarguenjuancruz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
