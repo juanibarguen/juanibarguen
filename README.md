@@ -3,8 +3,6 @@
 
 - 🌱 I am currently developing with **Angular & Spring boot**
 
-- 👨‍💻 My personal <a href="https://juanibarguen.github.io/portfolio/" target="_blank" rel="noreferrer">portfolio</a>
-
 - 📫 Contact me **ibarguenjuancruz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
