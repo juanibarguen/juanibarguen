@@ -3,7 +3,7 @@
 
 - 🌱 I am currently developing with **Angular & Spring boot**
 
-- 📫 Contact me **ibarguenjuancruz@gmail.com**
+- 📫 Contact me **juanibarguen159@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
